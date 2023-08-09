@@ -11,10 +11,16 @@ Here I keep track of all my projects from DataCamp as part of my Data Science le
 
 More to come....🛠️
 
+## Case Studies
+
+1. Analyzing Marketing Campaigns with pandas
+
 ## Technologies Used
 
 - Python
 - Pandas
+- Scipy
+- Numpy
 - Matplotlib
 
 ## Contact & Hiring
